@@ -1,8 +1,7 @@
-# Chatbot API —  DSO101 Assignment 3
+ DSO101 Assignment 3
 - A rule-based Chatbot API web is  built with Node.js and Express, deployed using a full CI/CD pipeline with GitHub Actions, Docker, DockerHub, and Render.com.
 
 
-# Live URL = [https://chatbot-api-ttlq.onrender.com]
 
 ---------------------
 Tools & Technologies
